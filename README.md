@@ -1,5 +1,5 @@
 
-# Swisstronik Tesnet Technical Task 1
+# Swisstronik Testnet Technical Task 1
 
 Link: [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
